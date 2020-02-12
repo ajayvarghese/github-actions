@@ -1,2 +1,2 @@
 # github-actions
-Created with CodeSandbox to test Github actions.
+React, Typescript Project created with CodeSandbox to test Github actions.
